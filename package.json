@@ -1,9 +1,12 @@
 {
   "name": "First-Heroku",
   "version": "0.1.0",
-  "description": "",
   "main": "app.js",
+    "scripts":{  
+  "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.15.3"
   }
+
 }
